@@ -1,8 +1,10 @@
-# WordPress Envioment to made Themes
+# WordPress environment
 
 ## Install Docker:
+
 > See the link:
-[dl.docker.com](https://docs.docker.com/get-docker/)
+[https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/)
+
 ## Run localy:
 
 > Run commands:
@@ -34,5 +36,5 @@ Or buy me a coffee 🙌🏾
 
 ## 📝 License
 
-Copyright © 2022 [Hebert F Barros](https://github.com/hebertcisco).<br />
+Copyright © 2023 [Hebert F Barros](https://github.com/hebertcisco).<br />
 This project is [MIT](LICENSE) licensed.
