@@ -1,7 +1,4 @@
-# WordPress Envioment
-
-[![Docker](https://github.com/hotbrainstech/wordpress-docker-envioment/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/hotbrainstech/wordpress-docker-envioment/actions/workflows/docker-publish.yml)
-[![Docker Image CI](https://github.com/hotbrainstech/wordpress-docker-envioment/actions/workflows/docker-image.yml/badge.svg)](https://github.com/hotbrainstech/wordpress-docker-envioment/actions/workflows/docker-image.yml)
+# WordPress environment
 
 ## Install Docker:
 
