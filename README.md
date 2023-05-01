@@ -1,5 +1,8 @@
 # WordPress environment
 
+[![Docker](https://github.com/hebertcisco/wordpress-docker-environment/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/hebertcisco/wordpress-docker-environment/actions/workflows/docker-publish.yml)
+[![Docker Image CI](https://github.com/hebertcisco/wordpress-docker-environment/actions/workflows/docker-image.yml/badge.svg)](https://github.com/hebertcisco/wordpress-docker-environment/actions/workflows/docker-image.yml)
+
 ## Install Docker:
 
 > See the link:
