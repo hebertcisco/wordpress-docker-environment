@@ -19,6 +19,16 @@ cd wordpress-docker-envioment
 ```
 sudo docker-compose -f "docker-compose.yml" up -d --build
 ```
+###  Install from the command line
+
+```
+docker pull ghcr.io/hebertcisco/wordpress-docker-environment:main
+```
+### Use as base image in Dockerfile:
+
+```
+FROM ghcr.io/hebertcisco/wordpress-docker-environment:main
+```
 
 > Open the link:
 [localhost:8080](http://localhost:8080)
